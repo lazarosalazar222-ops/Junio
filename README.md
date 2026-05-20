@@ -1,2 +1,0 @@
-# Junio
-mes de junio
